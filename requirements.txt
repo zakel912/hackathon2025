@@ -1,0 +1,8 @@
+pandas
+snscrape
+requests
+python-dotenv
+vaderSentiment
+transformers
+torch
+yfinance
